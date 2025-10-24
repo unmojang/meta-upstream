@@ -5,6 +5,78 @@
                 "architecture": "aarch64",
                 "heap_size": "normal",
                 "image_type": "jre",
+                "installer": {
+                    "checksum": "0d9d1dcc862279e1a9b422995000b0bc3079ab7523516538e00f6517b5502ea4",
+                    "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.9_10.pkg.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.9_10.pkg",
+                    "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.9_10.pkg.json",
+                    "name": "OpenJDK21U-jre_aarch64_mac_hotspot_21.0.9_10.pkg",
+                    "signature_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.9_10.pkg.sig",
+                    "size": 48338484
+                },
+                "jvm_impl": "hotspot",
+                "os": "mac",
+                "package": {
+                    "checksum": "1f7f6506b598e85d7d8ff8b36563d98657d2d81b16bfca3cd242d7906cfbd11b",
+                    "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.9_10.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.9_10.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.9_10.tar.gz.json",
+                    "name": "OpenJDK21U-jre_aarch64_mac_hotspot_21.0.9_10.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.9_10.tar.gz.sig",
+                    "size": 48075868
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-21.0.9+10_adopt",
+                "updated_at": "2025-10-23T19:55:29+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "aeab55d064a1a27a3744b0880b9b414077b4ed2b1790817eea3df60aec946431",
+                    "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_x64_linux_hotspot_21.0.9_10.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_x64_linux_hotspot_21.0.9_10.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_x64_linux_hotspot_21.0.9_10.tar.gz.json",
+                    "name": "OpenJDK21U-jre_x64_linux_hotspot_21.0.9_10.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_x64_linux_hotspot_21.0.9_10.tar.gz.sig",
+                    "size": 51952734
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-21.0.9+10_adopt",
+                "updated_at": "2025-10-23T20:13:53+00:00"
+            }
+        ],
+        "id": "RE_kwDOI-qQc84PTq2J.CSIS1fKdtOrSBQ==",
+        "release_link": "https://github.com/adoptium/temurin21-binaries/releases/tag/jdk-21.0.9%2B10",
+        "release_name": "jdk-21.0.9+10",
+        "release_type": "ga",
+        "source": {
+            "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jdk-sources_21.0.9_10.tar.gz",
+            "name": "OpenJDK21U-jdk-sources_21.0.9_10.tar.gz",
+            "size": 114646198
+        },
+        "timestamp": "2025-10-23T19:54:37+00:00",
+        "updated_at": "2025-10-23T20:14:13+00:00",
+        "vendor": "eclipse",
+        "version_data": {
+            "build": 10,
+            "major": 21,
+            "minor": 0,
+            "openjdk_version": "21.0.9+10-LTS",
+            "optional": "LTS",
+            "security": 9,
+            "semver": "21.0.9+10.0.LTS"
+        }
+    },
+    {
+        "binaries": [
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
                 "jvm_impl": "hotspot",
                 "os": "alpine-linux",
                 "package": {

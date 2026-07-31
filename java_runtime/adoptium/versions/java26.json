@@ -194,6 +194,11 @@
         "id": "RE_kwDOPdJyvs4VhCLp.XXse4yG4ys8X0A==",
         "release_link": "https://github.com/adoptium/temurin26-binaries/releases/tag/jdk-26.0.2%2B10",
         "release_name": "jdk-26.0.2+10",
+        "release_notes": {
+            "link": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.2%2B10/OpenJDK26U-jdk-release-notes_26.0.2_10.json",
+            "name": "OpenJDK26U-jdk-release-notes_26.0.2_10.json",
+            "size": 57219
+        },
         "release_type": "ga",
         "source": {
             "link": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.2%2B10/OpenJDK26U-jdk-sources_26.0.2_10.tar.gz",
@@ -201,7 +206,7 @@
             "size": 122613960
         },
         "timestamp": "2026-07-28T09:46:31+00:00",
-        "updated_at": "2026-07-31T12:31:11+00:00",
+        "updated_at": "2026-07-31T15:22:13+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 10,

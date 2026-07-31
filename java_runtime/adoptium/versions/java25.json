@@ -241,6 +241,11 @@
         "id": "RE_kwDONcCImc4Vfnxk.iMYUFUba5bJGAA==",
         "release_link": "https://github.com/adoptium/temurin25-binaries/releases/tag/jdk-25.0.4%2B7",
         "release_name": "jdk-25.0.4+7",
+        "release_notes": {
+            "link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4%2B7/OpenJDK25U-jdk-release-notes_25.0.4_7.json",
+            "name": "OpenJDK25U-jdk-release-notes_25.0.4_7.json",
+            "size": 79878
+        },
         "release_type": "ga",
         "source": {
             "link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4%2B7/OpenJDK25U-jdk-sources_25.0.4_7.tar.gz",
@@ -248,7 +253,7 @@
             "size": 120547619
         },
         "timestamp": "2026-07-27T17:54:20+00:00",
-        "updated_at": "2026-07-31T12:18:19+00:00",
+        "updated_at": "2026-07-31T15:21:43+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 7,

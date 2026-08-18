@@ -1,0 +1,342 @@
+{
+    "files": [
+        {
+            "contentLength": 195,
+            "contentType": "application/octet-stream",
+            "lastModifiedTime": 1787081188.038645,
+            "name": "neoforge-26.2.0.64-changelog.txt.asc",
+            "type": "FILE"
+        },
+        {
+            "contentLength": 32,
+            "contentType": "application/octet-stream",
+            "lastModifiedTime": 1787081189.2286,
+            "name": "neoforge-26.2.0.64-changelog.txt.md5",
+            "type": "FILE"
+        },
+        {
+            "contentLength": 40,
+            "contentType": "application/octet-stream",
+            "lastModifiedTime": 1787081189.041941,
+            "name": "neoforge-26.2.0.64-changelog.txt.sha1",
+            "type": "FILE"
+        },
+        {
+            "contentLength": 64,
+            "contentType": "application/octet-stream",
+            "lastModifiedTime": 1787081189.408594,
+            "name": "neoforge-26.2.0.64-changelog.txt.sha256",
+            "type": "FILE"
+        },
+        {
+            "contentLength": 128,
+            "contentType": "application/octet-stream",
+            "lastModifiedTime": 1787081189.588587,
+            "name": "neoforge-26.2.0.64-changelog.txt.sha512",
+            "type": "FILE"
+        },
+        {
+            "contentLength": 22199,
+            "contentType": "text/plain",
+            "lastModifiedTime": 1787081188.865281,
+            "name": "neoforge-26.2.0.64-changelog.txt",
+            "type": "FILE"
+        },
+        {
+            "contentLength": 195,
+            "contentType": "application/octet-stream",
+            "lastModifiedTime": 1787081188.375299,
+            "name": "neoforge-26.2.0.64-installer.jar.asc",
+            "type": "FILE"
+        },
+        {
+            "contentLength": 32,
+            "contentType": "application/octet-stream",
+            "lastModifiedTime": 1787081192.295152,
+            "name": "neoforge-26.2.0.64-installer.jar.md5",
+            "type": "FILE"
+        },
+        {
+            "contentLength": 40,
+            "contentType": "application/octet-stream",
+            "lastModifiedTime": 1787081191.931832,
+            "name": "neoforge-26.2.0.64-installer.jar.sha1",
+            "type": "FILE"
+        },
+        {
+            "contentLength": 64,
+            "contentType": "application/octet-stream",
+            "lastModifiedTime": 1787081192.481812,
+            "name": "neoforge-26.2.0.64-installer.jar.sha256",
+            "type": "FILE"
+        },
+        {
+            "contentLength": 128,
+            "contentType": "application/octet-stream",
+            "lastModifiedTime": 1787081192.661805,
+            "name": "neoforge-26.2.0.64-installer.jar.sha512",
+            "type": "FILE"
+        },
+        {
+            "contentLength": 3604192,
+            "contentType": "application/java-archive",
+            "lastModifiedTime": 1787081191.421851,
+            "name": "neoforge-26.2.0.64-installer.jar",
+            "type": "FILE"
+        },
+        {
+            "contentLength": 195,
+            "contentType": "application/octet-stream",
+            "lastModifiedTime": 1787081203.53473,
+            "name": "neoforge-26.2.0.64-moddev-config.json.asc",
+            "type": "FILE"
+        },
+        {
+            "contentLength": 32,
+            "contentType": "application/octet-stream",
+            "lastModifiedTime": 1787081202.471437,
+            "name": "neoforge-26.2.0.64-moddev-config.json.md5",
+            "type": "FILE"
+        },
+        {
+            "contentLength": 40,
+            "contentType": "application/octet-stream",
+            "lastModifiedTime": 1787081202.118116,
+            "name": "neoforge-26.2.0.64-moddev-config.json.sha1",
+            "type": "FILE"
+        },
+        {
+            "contentLength": 64,
+            "contentType": "application/octet-stream",
+            "lastModifiedTime": 1787081202.81809,
+            "name": "neoforge-26.2.0.64-moddev-config.json.sha256",
+            "type": "FILE"
+        },
+        {
+            "contentLength": 128,
+            "contentType": "application/octet-stream",
+            "lastModifiedTime": 1787081203.18141,
+            "name": "neoforge-26.2.0.64-moddev-config.json.sha512",
+            "type": "FILE"
+        },
+        {
+            "contentLength": 6997,
+            "contentType": "application/json",
+            "lastModifiedTime": 1787081201.754797,
+            "name": "neoforge-26.2.0.64-moddev-config.json",
+            "type": "FILE"
+        },
+        {
+            "contentLength": 195,
+            "contentType": "application/octet-stream",
+            "lastModifiedTime": 1787081187.671992,
+            "name": "neoforge-26.2.0.64.module.asc",
+            "type": "FILE"
+        },
+        {
+            "contentLength": 32,
+            "contentType": "application/octet-stream",
+            "lastModifiedTime": 1787081204.3347,
+            "name": "neoforge-26.2.0.64.module.md5",
+            "type": "FILE"
+        },
+        {
+            "contentLength": 40,
+            "contentType": "application/octet-stream",
+            "lastModifiedTime": 1787081203.98138,
+            "name": "neoforge-26.2.0.64.module.sha1",
+            "type": "FILE"
+        },
+        {
+            "contentLength": 64,
+            "contentType": "application/octet-stream",
+            "lastModifiedTime": 1787081204.51136,
+            "name": "neoforge-26.2.0.64.module.sha256",
+            "type": "FILE"
+        },
+        {
+            "contentLength": 128,
+            "contentType": "application/octet-stream",
+            "lastModifiedTime": 1787081204.884679,
+            "name": "neoforge-26.2.0.64.module.sha512",
+            "type": "FILE"
+        },
+        {
+            "contentLength": 17048,
+            "contentType": "application/octet-stream",
+            "lastModifiedTime": 1787081203.79472,
+            "name": "neoforge-26.2.0.64.module",
+            "type": "FILE"
+        },
+        {
+            "contentLength": 195,
+            "contentType": "application/octet-stream",
+            "lastModifiedTime": 1787081187.122013,
+            "name": "neoforge-26.2.0.64.pom.asc",
+            "type": "FILE"
+        },
+        {
+            "contentLength": 32,
+            "contentType": "application/octet-stream",
+            "lastModifiedTime": 1787081186.045386,
+            "name": "neoforge-26.2.0.64.pom.md5",
+            "type": "FILE"
+        },
+        {
+            "contentLength": 40,
+            "contentType": "application/octet-stream",
+            "lastModifiedTime": 1787081185.678734,
+            "name": "neoforge-26.2.0.64.pom.sha1",
+            "type": "FILE"
+        },
+        {
+            "contentLength": 64,
+            "contentType": "application/octet-stream",
+            "lastModifiedTime": 1787081186.405373,
+            "name": "neoforge-26.2.0.64.pom.sha256",
+            "type": "FILE"
+        },
+        {
+            "contentLength": 128,
+            "contentType": "application/octet-stream",
+            "lastModifiedTime": 1787081186.758693,
+            "name": "neoforge-26.2.0.64.pom.sha512",
+            "type": "FILE"
+        },
+        {
+            "contentLength": 6695,
+            "contentType": "application/xml",
+            "lastModifiedTime": 1787081185.502074,
+            "name": "neoforge-26.2.0.64.pom",
+            "type": "FILE"
+        },
+        {
+            "contentLength": 195,
+            "contentType": "application/octet-stream",
+            "lastModifiedTime": 1787081187.308672,
+            "name": "neoforge-26.2.0.64-sources.jar.asc",
+            "type": "FILE"
+        },
+        {
+            "contentLength": 32,
+            "contentType": "application/octet-stream",
+            "lastModifiedTime": 1787081194.578399,
+            "name": "neoforge-26.2.0.64-sources.jar.md5",
+            "type": "FILE"
+        },
+        {
+            "contentLength": 40,
+            "contentType": "application/octet-stream",
+            "lastModifiedTime": 1787081194.225079,
+            "name": "neoforge-26.2.0.64-sources.jar.sha1",
+            "type": "FILE"
+        },
+        {
+            "contentLength": 64,
+            "contentType": "application/octet-stream",
+            "lastModifiedTime": 1787081194.758393,
+            "name": "neoforge-26.2.0.64-sources.jar.sha256",
+            "type": "FILE"
+        },
+        {
+            "contentLength": 128,
+            "contentType": "application/octet-stream",
+            "lastModifiedTime": 1787081195.131712,
+            "name": "neoforge-26.2.0.64-sources.jar.sha512",
+            "type": "FILE"
+        },
+        {
+            "contentLength": 2104756,
+            "contentType": "application/java-archive",
+            "lastModifiedTime": 1787081193.738431,
+            "name": "neoforge-26.2.0.64-sources.jar",
+            "type": "FILE"
+        },
+        {
+            "contentLength": 195,
+            "contentType": "application/octet-stream",
+            "lastModifiedTime": 1787081198.074935,
+            "name": "neoforge-26.2.0.64-universal.jar.asc",
+            "type": "FILE"
+        },
+        {
+            "contentLength": 32,
+            "contentType": "application/octet-stream",
+            "lastModifiedTime": 1787081200.854831,
+            "name": "neoforge-26.2.0.64-universal.jar.md5",
+            "type": "FILE"
+        },
+        {
+            "contentLength": 40,
+            "contentType": "application/octet-stream",
+            "lastModifiedTime": 1787081200.478178,
+            "name": "neoforge-26.2.0.64-universal.jar.sha1",
+            "type": "FILE"
+        },
+        {
+            "contentLength": 64,
+            "contentType": "application/octet-stream",
+            "lastModifiedTime": 1787081201.038157,
+            "name": "neoforge-26.2.0.64-universal.jar.sha256",
+            "type": "FILE"
+        },
+        {
+            "contentLength": 128,
+            "contentType": "application/octet-stream",
+            "lastModifiedTime": 1787081201.401477,
+            "name": "neoforge-26.2.0.64-universal.jar.sha512",
+            "type": "FILE"
+        },
+        {
+            "contentLength": 7048034,
+            "contentType": "application/java-archive",
+            "lastModifiedTime": 1787081199.854868,
+            "name": "neoforge-26.2.0.64-universal.jar",
+            "type": "FILE"
+        },
+        {
+            "contentLength": 195,
+            "contentType": "application/octet-stream",
+            "lastModifiedTime": 1787081189.968573,
+            "name": "neoforge-26.2.0.64-userdev.jar.asc",
+            "type": "FILE"
+        },
+        {
+            "contentLength": 32,
+            "contentType": "application/octet-stream",
+            "lastModifiedTime": 1787081197.181635,
+            "name": "neoforge-26.2.0.64-userdev.jar.md5",
+            "type": "FILE"
+        },
+        {
+            "contentLength": 40,
+            "contentType": "application/octet-stream",
+            "lastModifiedTime": 1787081196.994975,
+            "name": "neoforge-26.2.0.64-userdev.jar.sha1",
+            "type": "FILE"
+        },
+        {
+            "contentLength": 64,
+            "contentType": "application/octet-stream",
+            "lastModifiedTime": 1787081197.541622,
+            "name": "neoforge-26.2.0.64-userdev.jar.sha256",
+            "type": "FILE"
+        },
+        {
+            "contentLength": 128,
+            "contentType": "application/octet-stream",
+            "lastModifiedTime": 1787081197.724948,
+            "name": "neoforge-26.2.0.64-userdev.jar.sha512",
+            "type": "FILE"
+        },
+        {
+            "contentLength": 3925550,
+            "contentType": "application/java-archive",
+            "lastModifiedTime": 1787081196.471662,
+            "name": "neoforge-26.2.0.64-userdev.jar",
+            "type": "FILE"
+        }
+    ],
+    "name": "26.2.0.64",
+    "type": "DIRECTORY"
+}

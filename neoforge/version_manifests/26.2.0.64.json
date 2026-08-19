@@ -1,7 +1,7 @@
 {
   "id": "neoforge-26.2.0.64",
-  "time": "2026-08-18T19:26:20.273840435",
-  "releaseTime": "2026-08-18T19:26:20.273840435",
+  "time": "2026-08-19T10:47:09.647825597",
+  "releaseTime": "2026-08-19T10:47:09.647825597",
   "type": "release",
   "mainClass": "net.neoforged.fml.startup.Client",
   "inheritsFrom": "26.2",
